@@ -1,6 +1,7 @@
 # ROVista
-This is the code 
+Code repo for our paper: 
 ## Paper
+![structure](figures/structure.png)
 ## Implementation
 ## Plots
 
