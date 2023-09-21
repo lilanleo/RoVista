@@ -1,5 +1,5 @@
-# RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPK
-This is the code repo for RoVista. Paper will be public available soon
+# RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI
+This is the code repo for RoVista. Paper will be published at IMC'2023.
 ## Results
 We public our daily measurement results here: https://rovista.netsecurelab.org/
 ## Methodology
