@@ -39,4 +39,7 @@ Due to the incomplete view of the routing table in RouteViews, there can be tNod
 *need to use network that allow spoofing packets and do not filtering RPKI invalid.
 
 We send spoofed TCP packet with vVPs's IP address to tNodes, while keep monitoring the IP-ID of vVPs. `spoofing-sender.py` for sending spoofed packets, `spoofing-parse-pcap.py` for parsing tcpdump file from monitoring IP-ID, and using `ip-id.py` to detect spike in IP-ID.
-![<img src="figures/spoofing-analysis.png" width="100"/>](figures/spoofing-analysis.png)
+<figure>
+    <img src="figures/spoofing-analysis.png" width="200">
+    <figcaption>IP-ID growth pattern</figcaption>
+</figure>
