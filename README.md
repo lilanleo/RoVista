@@ -1,7 +1,7 @@
 # RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI
 This is the code repo for RoVista. Paper will be published at IMC'2023.
 ## Results
-We public our daily measurement results here: https://rovista.netsecurelab.org/
+We run the measurement on a daily basis and we make our results publicly available: https://rovista.netsecurelab.org/
 ## Methodology
 The Resource Public Key Infrastructure (RPKI) is a system to add security to the Internet routing. In recent years, the publication of Route Origin Authorization (ROA) objects, which bind IP prefixes to their legitimate origin ASN, has been rapidly increasing. However, ROAs are effective only if the routers use them to verify and filter invalid BGP announcements, a process called Route Origin Validation (ROV).
 
