@@ -8,7 +8,7 @@ The Resource Public Key Infrastructure (RPKI) is a system to add security to the
 We present RoVista, an ROV measurement framework that leverages IP-ID side channel and in-the-wild RPKI-invalid prefix. With over 16 months of longitudinal measurement, RoVista successfully covers more than 27K ASes where 56.1% of ASes have derived benefits from ROV, although the percentage of fully protected ASes remains relatively low at 9.4%. In order to validate our findings, we have also sought input from network operators.
 
 
-## ROVista system
+## RoVista structure
 ROVista measurement includes three steps: obtain vantage points, obtain RPKI invalid targets, and sending/detecting spoofing packet:
 ![structure](figures/structure.png)
 ``` shell
