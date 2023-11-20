@@ -1,5 +1,17 @@
 # RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI
 This is the code repo for RoVista. Paper will be published at IMC'2023.
+
+## Bibliography
+```
+@inproceedings{li-2023-rov,
+  author = {Weitong Li and Zhexiao Lin and Mohammad Ishtiaq Ashiq Khan and Emile Aben and Romain Fontugne and Amreesh Phokeer and Taejoong Chung},
+  title = {{RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI}},
+  booktitle = {Proceedings of the ACM Internet Measurement Conference (IMC'23)},
+  address = {Montreal, Canada},
+  month = {October},
+  year = {2023}
+}
+```
 ## Results
 We run the measurement on a daily basis and we make our results publicly available: https://rovista.netsecurelab.org/
 ## Methodology
